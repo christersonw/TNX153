@@ -10,7 +10,7 @@
         app:srcCompat="?android:attr/quickContactBadgeOverlay"
         android:layout_alignParentTop="true"
         android:layout_alignParentStart="true"
-        android:layout_marginStart="28dp"
+        android:layout_marginStart="30dp"
         android:layout_marginTop="31dp"
         android:id="@+id/imageView"
         android:background="@color/colorAccent" />
